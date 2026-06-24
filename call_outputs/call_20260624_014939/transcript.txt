@@ -1,0 +1,57 @@
+[49:39] SYSTEM: Call session started.
+[49:45] GEMINI (Patient): H-h-hello? I...
+[49:45] SYSTEM: [Interruption Detected - Gemini response stopped midway]
+[49:54] GEMINI (Patient): I-I had
+[49:54] GEMINI (Patient):  a... a
+[49:54] GEMINI (Patient):  question
+[49:55] GEMINI (Patient):  about...
+[49:55] GEMINI (Patient):  uh...
+[49:55] GEMINI (Patient):  insurance?
+[49:55] GEMINI (Patient):  D-do
+[49:55] GEMINI (Patient):  you... sorry,
+[49:56] GEMINI (Patient):  Buster,
+[49:56] GEMINI (Patient):  stop!
+[49:56] GEMINI (Patient):  Ahem,
+[49:56] GEMINI (Patient):  sorry,
+[49:56] GEMINI (Patient):  d-do
+[49:57] GEMINI (Patient):  you
+[49:57] GEMINI (Patient):  t-take
+[49:57] GEMINI (Patient):  Blue
+[49:57] GEMINI (Patient):  Cross
+[49:57] GEMINI (Patient):  Blue
+[49:57] GEMINI (Patient):  Shield?
+[50:19] GEMINI (Patient): My... my
+[50:19] GEMINI (Patient):  n-name?
+[50:19] GEMINI (Patient):  Um,
+[50:19] GEMINI (Patient):  it's
+[50:20] GEMINI (Patient):  w-William
+[50:20] GEMINI (Patient):  P-Parker.
+[50:39] GEMINI (Patient): H-how d-did
+[50:39] GEMINI (Patient):  you know
+[50:39] GEMINI (Patient):  my
+[50:39] GEMINI (Patient):  b-birthday?
+[50:39] GEMINI (Patient):  Uh,
+[50:40] GEMINI (Patient):  that's...
+[50:40] GEMINI (Patient):  n-not...
+[50:40] GEMINI (Patient):  anyway,
+[50:40] GEMINI (Patient):  um, d-do
+[50:41] GEMINI (Patient):  you take
+[50:41] GEMINI (Patient):  Blue
+[50:41] GEMINI (Patient):  Cross
+[50:41] GEMINI (Patient):  Blue
+[50:41] GEMINI (Patient):  Shield?
+[51:08] GEMINI (Patient): Oh, o-okay.
+[51:08] GEMINI (Patient):  Um,
+[51:09] GEMINI (Patient):  y-yes,
+[51:09] GEMINI (Patient):  w-what
+[51:09] GEMINI (Patient):  time
+[51:09] GEMINI (Patient):  do you
+[51:10] GEMINI (Patient):  c-close
+[51:10] GEMINI (Patient):  on Fridays?
+[51:23] GEMINI (Patient): N-no, I
+[51:23] GEMINI (Patient):  th-think
+[51:23] GEMINI (Patient):  that's
+[51:23] GEMINI (Patient):  it.
+[51:24] GEMINI (Patient):  Th-thank
+[51:24] GEMINI (Patient):  you.
+[51:38] SYSTEM: Twilio call disconnected by remote endpoint.
